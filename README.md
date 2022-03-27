@@ -3,7 +3,7 @@ This is a simple IPv4 (IP Address) Checker. This small tool can;-
 > 1) Help find out the details regarding the IP Address (Class, Subnet Mask). 
 > 2) Analyse the given IP Address, and then determine any kinds of errors in the input/format/etc.
 
-This tool was just made for fun in my 2nd year (2019). It was made to come closer to the logic that the software applies in order to identify the type IP Address, and also find out the IP addresses, which are not considered valid.
+This tool was made just for fun and out of curiosity, in my 2nd year of B.Tech (2019). It was made, just to understand the logic behind the IP address-validity checking in different softwares and applications.
 
 ## **Output**
 <img width="438" alt="frame1" src="https://user-images.githubusercontent.com/61109976/160288935-ab9660f2-98df-4db2-8676-d68df6f19db5.png">
