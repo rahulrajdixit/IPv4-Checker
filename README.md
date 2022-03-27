@@ -1,2 +1,2 @@
 # IPv4-Checker
-A small GUI based IPv4 checker.
+A simple GUI based IPv4 Checker.
