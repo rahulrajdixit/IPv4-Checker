@@ -1,9 +1,9 @@
 # IPv4-Checker
 
 ## **Please Note**
-- This is a simple tool to check if a given IP Address is valid or not, and if it is a valid one, then just some general information about it.
+- This is a simple tool to check if a given IP Address is valid or not, and if it is a valid one, then it just provides some general information about it.
 - The the tool does not have any dependencies for calculations involving the IP Addresses. Only certain libraries are being used for the frontend generation.
-- The methods were developed by me just out of curiosity, to understand how an IP Address could be validated. Hence, there is a possibility for finding errors.
+- The methods were developed by me just out of curiosity, to understand how an IP Address could be validated. Hence, there is a possibility of finding errors.
 - I had made this tool some time back. If anyone wants to improve the code, then please feel free to contribute.
 
 ## **Introduction**
