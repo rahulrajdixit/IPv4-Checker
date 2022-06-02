@@ -1,7 +1,7 @@
 # IPv4-Checker
 
 ## **Please Note**
-- This is a simple tool to check if a given IP Address is valid or not, and if it is a valid one, then it just provides some general information about it.
+- This is a simple tool to check if a given IP Address is valid or not, and if it is a valid one, then it just provides some general information about it. Java will be required to run this program on your system.
 - The the tool does not have any dependencies for calculations involving the IP Addresses. Only certain libraries are being used for the frontend generation.
 - The methods were developed by me just out of curiosity, to understand how an IP Address could be validated. Hence, there is a possibility of finding errors.
 - I had made this tool some time back. If anyone wants to improve the code, then please feel free to contribute.
@@ -11,10 +11,12 @@ This is a simple IPv4 (IP Address) Checker. This small tool can:-
 > 1) Help find out the details regarding the IP Address (Class, Subnet Mask). 
 > 2) Analyse the given IP Address and then determine any kinds of errors in the input/format/etc.
 
-This tool was made just for fun and out of curiosity, in my 2nd year of B.Tech (2019). It was made, just to understand the logic behind the IP address-validity checking in different softwares and applications. There is a possibility that my apporach to validate the IP Address is wrong.
+This tool was made just for fun and out of curiosity, in my 2nd year (2019) of B.Tech. It was just developed to understand the logic behind the IP address-validity checking in different softwares and applications. There is a possibility that my apporach to validate the IP Address is wrong.
 
-## **How to use it?
-1. Download the zip file, and extract it. The program files should be in `IPv4-Checker-main` folder.
+------------------------------
+
+## **How to use it?**
+1. Given that Java is installed and working on your system, download the zip file and extract it. The program files should be in `IPv4-Checker-main` folder.
 2. Open CMD or Terminal and come to the directory where the program files are present. The directory location would mostly be `C:\Users\username\Downloads\IPv4-Checker-main\IPv4-Checker-main>` .
 3. To run the program, we first need our java compiler (javac) to convert our source code (`IPv4GUI.java`) to bytecode (`IPv4GUI.class`). For that, we use the following command:-
 ```java
@@ -24,7 +26,7 @@ javac IPv4GUI.java
 ```java
 java IPv4GUI
 ```
-5. You can now see the Graphical-User-Interface of the tool is now available. Try out different values and test if the IP Address is valid or not. Some of the values could be:
+5. You can now see the Graphical-User-Interface of the tool is now available. Try out different values and test if the IP Address is valid or not. Some of the values could be:-
 > Valid Values 
 > - 192.168.1.4 
 > - 10.10.0.1
