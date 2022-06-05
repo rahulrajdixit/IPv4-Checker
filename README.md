@@ -8,8 +8,8 @@
 
 ## **Introduction**
 This is a simple IPv4 (IP Address) Checker. This small tool can:- 
-> 1) Help find out the details regarding the IP Address (Class, Subnet Mask). 
-> 2) Analyse the given IP Address and then determine any kinds of errors in the input/format/etc.
+ 1) Help find out the details regarding the IP Address (Class, Subnet Mask). 
+ 2) Analyse the given IP Address and then determine any kinds of errors in the input/format/etc.
 
 This tool was made just for fun and out of curiosity, in my 2nd year (2019) of B.Tech. It was just developed to understand the logic behind the IP address-validity checking in different softwares and applications. There is a possibility that my apporach to validate the IP Address is wrong.
 
