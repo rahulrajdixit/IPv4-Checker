@@ -28,14 +28,14 @@ java IPv4GUI
 ```
 5. You can now see the Graphical-User-Interface of the tool is now available. Try out different values and test if the IP Address is valid or not. Some of the values could be:-
 > Valid Values 
-> - 192.168.1.4 
-> - 10.10.0.1
-> - 127.0.0.1
+ - 192.168.1.4 
+ - 10.10.0.1
+ - 127.0.0.1
 
 > Invalid Values
-> - 1.1.1.999.
-> - 673.5.35.abc
-> - 2A:5D:3B:5E:7B
+ - 1.1.1.999.
+ - 673.5.35.abc
+ - 2A:5D:3B:5E:7B
 
 ## **Outputs**
 ### **Example 1**
