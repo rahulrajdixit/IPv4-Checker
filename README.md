@@ -7,7 +7,7 @@
 - I had made this tool some time back. If anyone wants to improve the code, then please feel free to contribute.
 
 ## **Introduction**
-This is a simple IPv4 (IP Address) Checker. This small tool can:- 
+This is a simple IPv4 (IP Address) Checker. It can do the following:- 
  1) Help find out the details regarding the IP Address (Class, Subnet Mask). 
  2) Analyse the given IP Address and then determine any kinds of errors in the input/format/etc.
 
